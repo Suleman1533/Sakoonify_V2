@@ -14,7 +14,7 @@ def priority(sentence):
     return freq
     
     
-sentence = "ahmad d dfad dfad dfad a d  a a a"
+sentence = "ahmad ali ahmad, ahmed ahmed ahmed usman man man zain zain zain zain zain "
 print(priority(sentence))
 
 
