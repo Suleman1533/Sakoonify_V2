@@ -1,0 +1,58 @@
+[
+    {
+        "role": "user",
+        "message": "history"
+    },
+    {
+        "role": "assistant",
+        "message": "You said: history"
+    },
+    {
+        "role": "user",
+        "message": "have a nice day"
+    },
+    {
+        "role": "assistant",
+        "message": "You said: have a nice day"
+    },
+    {
+        "role": "user",
+        "message": "clear"
+    },
+    {
+        "role": "assistant",
+        "message": "You said: clear"
+    },
+    {
+        "role": "user",
+        "message": "exit"
+    },
+    {
+        "role": "assistant",
+        "message": "You said: exit"
+    },
+    {
+        "role": "user",
+        "message": "hello"
+    },
+    {
+        "role": "assistant",
+        "message": "\ud83d\udc4b Hello! How are you today?"
+    },
+    {
+        "role": "user",
+        "message": "good"
+    },
+    {
+        "role": "assistant",
+        "message": "\ud83d\ude0a That's wonderful! I'm really glad you're feeling good."
+    },
+    {
+        "role": "user",
+        "message": "sad"
+    },
+    {
+        "role": "assistant",
+        "message": "\ud83d\udc99 I'm sorry you're feeling that way. I'm here to listen."
+    }
+]
