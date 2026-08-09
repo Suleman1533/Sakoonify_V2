@@ -21,3 +21,4 @@ def chat (request :  Chatrequest):
 def Uploadvoice(file:UploadFile= File(...)):
     file.filename
     
+ 
