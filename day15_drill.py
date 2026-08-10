@@ -1,0 +1,1 @@
+# i learn sql crud commands like where, delete, update, and select , and some interview techinical questions
