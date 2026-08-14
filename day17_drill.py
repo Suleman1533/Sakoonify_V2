@@ -1,1 +1,1 @@
-enlish learing
+enlish learing practive one day completely on interview, i will continue tomaorrow as well
