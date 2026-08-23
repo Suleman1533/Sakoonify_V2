@@ -26,4 +26,4 @@ def fetch_messages(user_id):
     messages = cursor.fetchall()
 
     conn.close()
-    return messages
+    return messages 
