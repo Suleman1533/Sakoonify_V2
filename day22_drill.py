@@ -1,1 +1,1 @@
-continue learning azure
+continue learning azure same day 
