@@ -10,7 +10,7 @@ def init_db():
     cursor = conn.cursor()
     cursor.execute(
         """
-        continue learning azure and scholarships
+        continue learning azure and scholarships continue learning 
         """
         
     )
